@@ -21,6 +21,8 @@ import com.google.gson.GsonBuilder;
 public class Solution {
 	public static void main(String[] args) {
 
+		//test
+		
 		final String url = "https://www.cermati.com/karir";
 		List<Departement> deps = new ArrayList<>();
 		try {
